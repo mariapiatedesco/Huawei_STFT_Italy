@@ -1,7 +1,7 @@
 # Huawei Seeds For The Future (Italy Group G)
 
-## Proof of concept demo
-Group members: Luca Subitoni, Manuel Guatto, Lara Cugno Parrotta, Maria Pia Tedesco, Leonardo Brugnano, Giulio Conca, Emanuele Mori, Marco Petix, Matteo Rocco
+### Group members 
+Luca Subitoni, Manuel Guatto, Lara Cugno Parrotta, Maria Pia Tedesco, Leonardo Brugnano, Giulio Conca, Emanuele Mori, Marco Petix, Matteo Rocco
 
 ### Description
 The Jupyter Notebook in this repository contains a proof of concept deep learning model that tries to predict whether an alarm produced by a ICU (Intensive Care Unit) monitor is True or False by using the 60 second timeseries recorded before the alarm started ringing.
