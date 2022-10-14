@@ -1,6 +1,7 @@
 # Huawei Seeds For The Future
 ## Proof of concept demo
 ### Italy Group G
+
 Group members: Luca Subitoni, Manuel Guatto, Lara Cugno Parrotta, Maria Pia Tedesco, Leonardo Brugnano, Giulio Conca, Emanuele Mori, Marco Petix, Matteo Rocco
 
 ## DESCRIPTION
