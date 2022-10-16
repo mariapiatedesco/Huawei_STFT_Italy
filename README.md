@@ -10,7 +10,7 @@ Luca Subitoni, Manuel Guatto, Lara Cugno Parrotta, Maria Pia Tedesco, Leonardo B
 - Dataset: The dataset was downloaded from PhysioNet database: https://physionet.org/content/challenge-2015/1.0.0/.
 It was then processed and simplified for this demo in the Jupyter Notebook.
 
-- Model: The model contains a convolutional neural network with a final danse layer. It has been developed on Kaggle (for better GPU performance) using Tensorflow Keras. The hyperparameters of the model were optimized using the Optuna framework.
+- Model: The model contains a convolutional neural network with a final danse layer. It was developed on Kaggle (for better GPU performance) using Tensorflow Keras. The hyperparameters of the model were optimized using the Optuna framework.
 
 ### Position algorithm (cambia il nome)
 
