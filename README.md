@@ -12,3 +12,11 @@ It was then processed and simplified for this demo in the Jupyter Notebook.
 
 - Model: The model contains a convolutional neural network with a final danse layer. It has been developed on Kaggle (for better GPU performance) using Tensorflow Keras. The hyperparameters of the model were optimized using the Optuna framework.
 
+### Position algorithm (cambia il nome)
+
+- Description: 
+
+- Dataset: 
+
+- Model: 
+
