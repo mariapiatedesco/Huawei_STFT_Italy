@@ -19,3 +19,7 @@ It was then processed and simplified for this demo in the Jupyter Notebook.
 - Dataset: We start the simulation of the algorithm setting up 25 "agents" , 5 nurses and 20 patients. Moreover the movements of the nurses are simulated accordingly to a random walk.
 
 - Model: The algorithm is based on the sharing of the distance measurements between that every agent computes w.r.t. the other ones. This let the algorithm build a map of all the agents' position that is no absolute reference fram dependent.
+
+
+https://user-images.githubusercontent.com/69035483/196029758-e492c84b-8199-4592-a173-5d709c4c4f3e.mp4
+
