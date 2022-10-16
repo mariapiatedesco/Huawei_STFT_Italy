@@ -12,11 +12,10 @@ It was then processed and simplified for this demo in the Jupyter Notebook.
 
 - Model: The model contains a convolutional neural network with a final danse layer. It was developed on Kaggle (for better GPU performance) using Tensorflow Keras. The hyperparameters of the model were optimized using the Optuna framework.
 
-### Position algorithm (cambia il nome)
+### Indoor Tracking Localization Algorithm
 
-- Description: 
+- Description: The Matlab file contains the code of the decentralized position estimation algorithm. This solution helps us in tracking the nurses and the patients in the ICU unit without using the GPS technology.
 
-- Dataset: 
+- Dataset: We start the simulation of the algorithm setting up 25 "agents" , 5 nurses and 20 patients. Moreover the movements of the nurses are simulated accordingly to a random walk.
 
-- Model: 
-
+- Model: The algorithm is based on the sharing of the distance measurements between that every agent computes w.r.t. the other ones. This let the algorithm build a map of all the agents' position that is no absolute reference fram dependent.
