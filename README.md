@@ -3,7 +3,7 @@
 ### Group members 
 Luca Subitoni, Manuel Guatto, Lara Cugno Parrotta, Maria Pia Tedesco, Leonardo Brugnano, Giulio Conca, Emanuele Mori, Marco Petix, Matteo Rocco
 
-### Alarm Classifier - Deep Learning Model
+### Alarm Deep Learning Model
 
 - Description: The Jupyter Notebook in this repository contains a proof of concept deep learning model that tries to predict whether an alarm produced by a ICU (Intensive Care Unit) monitor is True or False by using the 60 second timeseries recorded before the alarm started ringing.
 
