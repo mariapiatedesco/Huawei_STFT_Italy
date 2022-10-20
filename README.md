@@ -24,6 +24,5 @@ It was then processed and simplified for this demo in the Jupyter Notebook.
 
 - Model: The algorithm is based on the sharing of the distance measurements between that every agent computes w.r.t. the other ones. This lets the algorithm build a map of all the agents' position that is no absolute reference frame dependent.
 
-<p align="center">
+
 https://user-images.githubusercontent.com/69035483/196029758-e492c84b-8199-4592-a173-5d709c4c4f3e.mp4
-</p>
