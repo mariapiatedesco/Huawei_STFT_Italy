@@ -3,9 +3,9 @@
 ### Group members 
 Luca Subitoni, Manuel Guatto, Lara Cugno Parrotta, Mariapia Tedesco, Leonardo Brugnano, Giulio Conca, Emanuele Mori, Marco Petix, Matteo Rocco
 
-<center>
+<p align="center">
 <img width="835" alt="Full model" src="https://user-images.githubusercontent.com/69035483/196909217-7ef747fb-ddac-471a-801f-0eb21a5cfc64.png">
-</center>
+</p>
 
 ### Deep Learning Model for Alarm Classification
 
