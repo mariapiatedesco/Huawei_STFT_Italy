@@ -14,7 +14,7 @@ Luca Subitoni, Manuel Guatto, Lara Cugno Parrotta, Mariapia Tedesco, Giulio Conc
 - Dataset: The dataset was downloaded from PhysioNet database: https://physionet.org/content/challenge-2015/1.0.0/.
 It was then processed and simplified for this demo in the Jupyter Notebook. The final dataset contained 572 instances.
 
-- Model: The first model contained a convolutional neural network with a final dense layer. It was developed on Kaggle (for better GPU performance) using Tensorflow Keras. The hyperparameters of the model were optimized using the Optuna framework. This model yielded a performance of 75%. We then improved the model using LDA and a MLP on Scikit-learn obtaining an accuracy of 83%.
+- Model: The first model contained a convolutional neural network with a final dense layer. It was developed on Kaggle (for better GPU performance) using Tensorflow Keras. The hyperparameters of the model were optimized using the Optuna framework. This model yielded a performance of 75%. We then improved the model using frequency analysis, LDA and a MLP on Scikit-learn obtaining an accuracy of 83%.
 
 ### Indoor Tracking Localization Algorithm
 
