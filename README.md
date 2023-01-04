@@ -4,7 +4,7 @@
 Luca Subitoni, Manuel Guatto, Lara Cugno Parrotta, Mariapia Tedesco, Giulio Conca, Emanuele Mori, Marco Petix, Matteo Rocco
 
 <p align="center">
-![Schermata 2023-01-04 alle 16 25 59](https://user-images.githubusercontent.com/69035483/210619210-c988f33f-752a-4b22-b42f-c01b8cc82bed.png)
+![Schermata 2023-01-04 alle 16 25 59](https://user-images.githubusercontent.com/69035483/210619262-fa950b7d-c7e9-4dc4-a2a0-f805baac6fb7.png)
 </p>
 
 ### Deep Learning Model for Alarm Classification
