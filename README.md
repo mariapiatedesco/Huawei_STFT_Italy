@@ -18,7 +18,7 @@ It was then processed and simplified for this demo in the Jupyter Notebook. The 
 
 ### Indoor Tracking Localization Algorithm
 
-- Description: The Matlab file contains the code of the decentralized position estimation algorithm. This solution helps us in tracking the nurses and the patients in the ICU unit without using the GPS technology.
+- Description: The Matlab file contains the code of the distributed localization algorithm. This solution helps us in tracking the nurses and the patients in the ICU unit without using the GPS technology.
 
 - Dataset: We start the simulation of the algorithm setting up 25 "agents" , 5 nurses and 20 patients. Moreover the movements of the nurses are simulated accordingly to a random walk.
 
