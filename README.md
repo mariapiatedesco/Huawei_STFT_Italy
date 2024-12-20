@@ -1,28 +1,58 @@
-# Huawei Seeds For The Future 2022 (Italy Group G)
+# 🌱 Huawei Seeds For The Future 2022 (Italy)
 
-### Group members 
-Luca Subitoni, Manuel Guatto, Lara Cugno Parrotta, Mariapia Tedesco, Giulio Conca, Emanuele Mori, Marco Petix, Matteo Rocco
+### 👩‍💻 **Group Members** 
+Luca Subitoni | Manuel Guatto | Lara Cugno Parrotta | Mariapia Tedesco | Giulio Conca | Emanuele Mori | Marco Petix | Matteo Rocco
+
+---
+
+### Our product
 
 <p align="center">
-   <img src="https://user-images.githubusercontent.com/69035483/210620086-01ca8806-3d31-4dc3-8169-02a65c315500.png"/>
+   <img src="https://user-images.githubusercontent.com/69035483/210620086-01ca8806-3d31-4dc3-8169-02a65c315500.png" width="400"/>
 </p>
 
-### Deep Learning Model for Alarm Classification
+---
 
-- Description: The Jupyter Notebook in this repository contains a proof of concept deep learning model that tries to predict whether an alarm produced by a ICU (Intensive Care Unit) monitor is True or False by using the 60 second timeseries recorded before the alarm started ringing.
+## 🚨 **Deep Learning Model for Alarm Classification**
 
-- Dataset: The dataset was downloaded from PhysioNet database: https://physionet.org/content/challenge-2015/1.0.0/.
-It was then processed and simplified for this demo in the Jupyter Notebook. The final dataset contained 572 instances.
+### 📝 **Description**
+This repository contains a proof-of-concept **Deep Learning Model** designed to classify ICU (Intensive Care Unit) monitor alarms as either **True** or **False**, based on the 60-second time series recorded before the alarm rings.
 
-- Model: The first model contained a convolutional neural network with a final dense layer. It was developed on Kaggle (for better GPU performance) using Tensorflow Keras. The hyperparameters of the model were optimized using the Optuna framework. This model yielded a performance of 75%. We then improved the model using frequency analysis, LDA and a MLP on Scikit-learn obtaining an accuracy of 83%.
+### 📊 **Dataset**
+- The dataset was sourced from the [PhysioNet database](https://physionet.org/content/challenge-2015/1.0.0/) and preprocessed for this project.
+- Final dataset size: **572 instances**.
 
-### Indoor Tracking Localization Algorithm
+### 🧠 **Model**
+- **Initial Model**:
+  - Built using a **Convolutional Neural Network (CNN)** with a final dense layer.
+  - Developed in Kaggle for GPU optimization with **TensorFlow Keras**.
+  - Hyperparameters were fine-tuned using the **Optuna framework**.
+  - Achieved **75% accuracy**.
+- **Improved Model**:
+  - Enhanced using **frequency analysis**, **LDA**, and a **Multilayer Perceptron (MLP)** in **Scikit-learn**.
+  - Achieved an improved accuracy of **83%**.
 
-- Description: The Matlab file contains the code of the distributed localization algorithm. This solution helps us in tracking the nurses and the patients in the ICU unit without using the GPS technology.
+---
 
-- Dataset: We start the simulation of the algorithm setting up 25 "agents" , 5 nurses and 20 patients. Moreover the movements of the nurses are simulated accordingly to a random walk.
+## 📍 **Indoor Tracking Localization Algorithm**
 
-- Model: The algorithm is based on the sharing of the distance measurements between that every agent computes w.r.t. the other ones. This lets the algorithm build a map of all the agents' position that is no absolute reference frame dependent.
+### 📝 **Description**
+This solution, implemented in **MATLAB**, offers a distributed localization algorithm that tracks the movements of nurses and patients within an ICU unit—**without relying on GPS technology**.
 
+### 📊 **Dataset**
+- Simulated environment with:
+  - **25 agents**: 5 nurses and 20 patients.
+  - Nurse movements are simulated using a **random walk** model.
 
+### 🔧 **Model**
+- The algorithm relies on the **sharing of distance measurements** between agents.
+- Builds a map of all agent positions, independent of any absolute reference frame.
+
+### 🎥 **Demo Video**
 https://user-images.githubusercontent.com/69035483/196029758-e492c84b-8199-4592-a173-5d709c4c4f3e.mp4
+
+---
+
+## 🌐 **Website**
+Discover more about our project at:  
+👉 [AlarmDeck Website](https://sites.google.com/view/alarmdeck/home)
