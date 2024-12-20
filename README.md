@@ -55,7 +55,7 @@ https://user-images.githubusercontent.com/69035483/196029758-e492c84b-8199-4592-
 
 ## 🌟 Canva Presentation
 Check out our detailed project presentation on Canva:  
-[🔗 View Presentation](https://your-canva-link.com)
+[🔗 View Presentation](https://www.canva.com/design/DAFO7tOwF6c/0VKjXy5-2Udag3qcTWzXKg/edit)
 
 ---
 
