@@ -53,6 +53,12 @@ https://user-images.githubusercontent.com/69035483/196029758-e492c84b-8199-4592-
 
 ---
 
+## 🌟 Canva Presentation
+Check out our detailed project presentation on Canva:  
+[🔗 View Presentation](https://your-canva-link.com)
+
+---
+
 ## 🌐 **Website**
 Discover more about our project at:  
 👉 [AlarmDeck Website](https://sites.google.com/view/alarmdeck/home)
