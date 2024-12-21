@@ -59,6 +59,13 @@ Check out our detailed project presentation on Canva:
 
 ---
 
+## 📹 **YouTube Video**
+Check out the video of our **Global Huawei Seeds for the Future Competition** presentation!  
+My presentation starts at **minute 17**.  
+[![Watch the Video](https://img.youtube.com/vi/dDU7KTkIIZY/0.jpg)](https://www.youtube.com/watch?v=dDU7KTkIIZY)
+
+---
+
 ## 🌐 **Website**
 Discover more about our project at:  
 👉 [AlarmDeck Website](https://sites.google.com/view/alarmdeck/home)
